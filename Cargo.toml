@@ -3,5 +3,9 @@ name = "rust-learning"
 version = "0.1.0"
 edition = "2021"
 
+[workspace]
+members = [
+	"guess_number",
+]
+
 [dependencies]
-fastrand = "2.1.1"
