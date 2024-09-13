@@ -8,6 +8,7 @@ members = [
 	"guess_number", 
 	"rock_scissors_paper", 
 	"rock_scissors_paper_2",
+	"base_converter",
 ]
 
 [dependencies]
