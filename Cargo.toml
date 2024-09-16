@@ -9,6 +9,7 @@ members = [
 	"rock_scissors_paper", 
 	"rock_scissors_paper_2",
 	"base_converter",
+	"base_converter_2",
 ]
 
 [dependencies]
